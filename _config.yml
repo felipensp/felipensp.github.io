@@ -1,0 +1,12 @@
+# Site settings
+title: Felipe Pena
+email: felipe@ctf-br.org
+description: > # this means to ignore newlines until "baseurl:"
+  “E conhecereis a verdade, e a verdade vos libertará.” - João 8:32
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://felipensp.github.io" # the base hostname & protocol for your site
+twitter_username: felipensp
+github_username:  felipensp
+
+# Build settings
+markdown: kramdown
