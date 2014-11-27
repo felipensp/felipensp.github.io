@@ -4,6 +4,8 @@ title: Vulnerabilidades
 permalink: /vulns/
 ---
 
+Segue abaixo uma lista de vulnerabilidades encontradas durante um bom tempo de hobbie fuçando códigos alheios...
+
 Projeto       | CVE            | Tipo
 :------------ | :------------- | :------------------------
 Monkey HTTPD  | CVE-2013-2183  | FD leakage
